@@ -1,3 +1,7 @@
+NAME: RAMYA R
+
+REG NO: 23000505
+
 # Exp-6-Synchornous-counters - up counter and down counter 
 ### AIM: To implement 4 bit up and down counters and validate  functionality.
 ### HARDWARE REQUIRED:  – PC, Cyclone II , USB flasher
@@ -53,36 +57,50 @@ This type of counter is normally referred to as a Down Counter, (CTD). In a bina
 ### PROGRAM 
 /*
 Program for flipflops  and verify its truth table in quartus using Verilog programming.
-Developed by: 
-RegisterNumber:  
+
+Developed by: Ramya R
+
+RegisterNumber: 23000505
+
+UP COUNTER
+
+![Screenshot 2023-12-02 162518](https://github.com/ramya23000505/Exp-7-Synchornous-counters-/assets/149370791/b843ec17-d8ef-47c6-86ff-93dbbd26ed2d)
+
+DOWN COUNTER
+
+![Screenshot 2023-12-02 162534](https://github.com/ramya23000505/Exp-7-Synchornous-counters-/assets/149370791/17eb9627-a482-427f-8d89-dd98ff1d556d)
+
 */
-
-
-
-
-
 
 ### RTL LOGIC UP COUNTER AND DOWN COUNTER  
 
+RLT FOR UP COUNTER
 
+![Screenshot 2023-12-02 162548](https://github.com/ramya23000505/Exp-7-Synchornous-counters-/assets/149370791/60209423-d85b-4092-b78f-6a8ed29f5cbe)
 
+RLT FOR DOWN COUNTER
 
-
-
-
-
-
-### TIMING DIGRAMS FOR COUNTER  
-
-
-
-
+![Screenshot 2023-12-02 162613](https://github.com/ramya23000505/Exp-7-Synchornous-counters-/assets/149370791/e6561dde-e46b-48f5-a0a0-aa545befdb4a)
 
 ### TRUTH TABLE 
 
+TRUTH TABLE FOR UP COUNTER
 
+![Screenshot 2023-12-02 162751](https://github.com/ramya23000505/Exp-7-Synchornous-counters-/assets/149370791/f00141fe-c5e1-4ed8-a070-15fcd9c485e8)
 
+TRUTH TABLE FOR DOWN COUNTER
 
+![Screenshot 2023-12-02 162829](https://github.com/ramya23000505/Exp-7-Synchornous-counters-/assets/149370791/86b1a271-ca49-41fc-89ea-6117439a4cf7)
+
+### TIMING DIGRAMS FOR COUNTER  
+
+TIMING DIGRAM FOR UP COUNTER 
+
+![Screenshot 2023-12-02 162633](https://github.com/ramya23000505/Exp-7-Synchornous-counters-/assets/149370791/e3e6f449-3094-478b-a26d-f47141626464)
+
+TIMING DIGRAM FOR DOWN COUNTER 
+
+![Screenshot 2023-12-02 162644](https://github.com/ramya23000505/Exp-7-Synchornous-counters-/assets/149370791/fd7c630b-01bf-481d-9963-23c1bb578801)
 
 
 ### RESULTS 
